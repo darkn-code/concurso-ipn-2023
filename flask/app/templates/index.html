@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+{% block title %}
+   {{ super() }}
+   ChatBoT
+{% endblock %}
+{% block content %}
+<div id="chat-box">
+
+</div>
+<div id="chat-typing">
+
+</div>
+<div id="input-area">
+   <input type="text" id="user-input" placeholder="Escribe tu mensaje...">
+   <button id="send-button">Enviar</button>
+   <button id="clear-button">Limpiar</button>
+</div>
+   {%block scripts%}
+      <script src="../static/js/main.js" username="{{ username[0] }}"></script>
+   {% endblock %}
+{% endblock %}

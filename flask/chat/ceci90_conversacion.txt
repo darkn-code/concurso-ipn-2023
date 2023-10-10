@@ -1,0 +1,24 @@
+ceci90: hola
+EduMentorBot: Hola, ¿en qué puedo ayudarte hoy?
+ceci90: con EduNova
+EduMentorBot: El Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada, Unidad Legaria (EDUNOVA Legaria), es una Unidad de Apoyo del Instituto Politécnico Nacional, encargada de impulsar la vinculación entre la investigación científica, el desarrollo tecnológico y la innovación, con los sectores productivos y de servicios del país, a través de la formación de recursos humanos especializados, la realización de proyectos de investigación aplicada y desarrollo tecnológico, así como la prestación de servicios de alta especialidad. Para mas informacion visita la pagina de web de EduNova Legaria: https://www.legaria.ipn.mx/
+ceci90: hola
+EduMentorBot: Hola, ¿en qué puedo ayudarte hoy?
+ceci90: hola
+EduMentorBot: Hola, ¿en qué puedo ayudarte hoy?
+ceci90: servicios
+EduMentorBot: Dentro de los principales servicios que ofrece el centro se encuentran: biblioteca central, edificio de laboratorios, edificio de aulas, salon de usos multiples, y centro de computo. Para mas informacion visita la pagina de web de EduNova Legaria: https://www.legaria.ipn.mx/
+ceci90: hola
+EduMentorBot: Hola, ¿en qué puedo ayudarte hoy?
+ceci90: sabe quien soy
+EduMentorBot: Claro, tu eres Arnoldo Rosell, estudiante de doctorado en tehcnologia avanzada. 
+ceci90: esta ahi?
+EduMentorBot: Si, claro. EduMentorBot es una ai que tiene 3 años y que vive en un servidor en el EduNova y que ayuda con informacion relacionada con EduNova con tramites como inscripcion, servicios de biblioteca, informacion de profesor , y que EduNova cuenta con 3 posgrados académicos: Tecnología Avanzada, Física Educativa y Matemática Educativa.
+ceci90: perfecto
+EduMentorBot: Si tienes alguna duda o pregunta, no dudes en preguntarme. Estoy aqui para ayudarte.
+ceci90: mi nombre es Cecilia
+EduMentorBot: Hola Cecilia, ¿en qué puedo ayudarte hoy?
+ceci90: sabes quien es Victor?
+EduMentorBot: Claro, tu eres Cecilia, estudiante de maestria en fisica educativa. 
+ceci90: esta bien?
+EduMentorBot: Si, solo estaba pensando en que tipo de pizza te gustaria pedir.

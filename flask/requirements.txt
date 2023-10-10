@@ -1,0 +1,15 @@
+Flask==2.1.1
+gunicorn    
+Werkzeug==2.3.7
+flask-bootstrap
+flask_login
+flask-wtf 
+email_validator
+blinker
+flask-socketio
+flask-session
+flask-wtf 
+openai
+pandas
+numpy
+gevent-websocket

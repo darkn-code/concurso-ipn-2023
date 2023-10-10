@@ -1,0 +1,3 @@
+username,password,name,fecha_nacimiento,correo_electronico
+darkn,pbkdf2:sha256:600000$Fl4qCObWOb2LAetP$3967093cfcfff0ee1bca37bfe3ca6ff6acfb623275b12ee614dcb8ea52b6ac8c,Victor Gironda,1990-11-07,ngironda7@gmail.com
+ceci90,pbkdf2:sha256:600000$J9Lfyze8UHVVShKW$e040516961d5fe7f8d87666ad3de9a2b65e1605f69d9d450d930449822591c32,Cecilia Padilla,1990-06-06,pr.cecilia.pr@gmail.com
